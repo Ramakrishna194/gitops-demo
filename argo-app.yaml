@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_GITHUB_USERNAME/gitops-demo
+    repoURL: https://github.com/Ramakrishna194/gitops-demo
     targetRevision: HEAD
     path: helm/nginx
   destination:
